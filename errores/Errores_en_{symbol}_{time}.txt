@@ -1,0 +1,3 @@
+2022-05-26T19:10:00.000000000 - an exception occured - local variable 'client' referenced before assignment Oops 1 ! 
+2022-05-26T19:10:00.000000000 - an exception occured - APIError(code=-1106): Parameter 'price' sent when not required. Oops 1 ! 
+2022-05-26T19:10:00.000000000 - an exception occured - APIError(code=-1102): Mandatory parameter 'timeInForce' was not sent, was empty/null, or malformed. Oops 1 ! 
